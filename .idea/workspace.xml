@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d9610ec-be22-47f2-ab54-02c8e481230b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.MD" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -254,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537982872490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update README.MD">
+      <created>1537983431237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537983431237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,7 +299,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="Update README.MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.MD" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
